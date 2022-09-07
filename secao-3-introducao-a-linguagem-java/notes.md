@@ -1,12 +1,12 @@
 # Entendendo as versões do JAVA
 - SE: Standart Edition
-- LTS: Suporte de longo período
+- LTS: Suporte de longo período (Long Term Support)
 - A versão 8 é a última versão de longo suporte antes da versão 11. Versões LTS implicam em menos trabalhos "dor de cabeça" com atualizações.
 
 # Histórico do Java (Contextualização):
 
 # Histórico e edições do Java
-- Java é uma linguagem de programação e também uma plataforma de desenvolvimento e execução. Isso significa que a linugagem fornececerá Bibliotecas(API) e ambientes de execução.
+- Java é uma linguagem de programação(Regras sintáticas) e também uma plataforma de desenvolvimento e execução. Isso significa que a linguagem fornececerá Bibliotecas(API) e ambientes de execução.
 
 * Histórico:
 - Problemas resolvidos e motivo de seu sucesso:
